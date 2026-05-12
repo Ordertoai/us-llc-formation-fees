@@ -1,0 +1,25 @@
+# Citation formats
+
+## BibTeX
+
+@dataset{softcrown_llc_cost_2026,
+  author       = {Aissam Baidi},
+  title        = {2026 LLC Cost Index},
+  year         = {2026},
+  publisher    = {llcformationcost.com},
+  url          = {https://llcformationcost.com/data/},
+  license      = {CC BY 4.0},
+  note         = {51-jurisdiction primary-sourced dataset, quarterly-verified}
+}
+
+## APA (7th ed.)
+
+Aissam Baidi. (2026). 2026 LLC Cost Index [Dataset]. llcformationcost.com. https://llcformationcost.com/data/
+
+## Chicago
+
+Aissam Baidi. "2026 LLC Cost Index." llcformationcost.com. 2026. https://llcformationcost.com/data/.
+
+## Plain text
+
+Source: 2026 LLC Cost Index (llcformationcost.com, 2026). CC BY 4.0.
