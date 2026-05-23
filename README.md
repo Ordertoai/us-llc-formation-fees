@@ -1,76 +1,58 @@
-# US LLC Formation Fees Dataset
+# 2026 LLC Formation Cost Dataset
 
-**51 US jurisdictions (50 states + DC)** with real, verified LLC formation costs for 2026.
+Open dataset of LLC formation costs across 51 US jurisdictions, sourced
+from each state's Secretary of State website + IRS guidance. Released under
+**CC BY 4.0** — free to use commercially, with attribution.
 
-Each row: a state's filing fee, annual report fee, franchise tax, and the Secretary of State URL where you can verify the data.
+## Coverage
 
-This is the open-data dataset powering [llcformationcost.com](https://llcformationcost.com) — the free LLC formation cost calculator operated by Ordertoai LLC.
-
-## Files
-
-- `states.csv` — 51 rows, CSV format
-- `states.json` — same data, structured JSON with additional metadata
-- `methodology.md` — full methodology + source citations
-- `CITATION.txt` — how to cite this dataset academically
+51 jurisdictions (50 states + DC where data is available).
+Last verified: **2026-05-23**.
 
 ## Schema
 
 | Column | Type | Description |
 |---|---|---|
-| `code` | string | 2-letter postal code (`CA`, `TX`, `DC`, etc.) |
-| `name` | string | Full state name |
-| `filingFee` | number | One-time state filing fee (USD) for Articles of Organization |
-| `filingForm` | string | Official form name (varies by state) |
-| `firstYearAnnualReportFee` | number | Year-1 report fee (separate because some states delay billing) |
-| `annualReportFee` | number | Ongoing annual report fee |
-| `annualReportCadence` | string | `annual` / `biennial` / `decennial` / `none` |
-| `franchiseTaxYearOne` | number | First-year franchise tax (some states grant year-1 exemptions) |
-| `franchiseTaxOngoing` | number | Ongoing annual franchise tax |
-| `sosUrl` | string | Secretary of State filing URL for verification |
+| `code` | string | Two-letter state postal code (e.g., `CA`, `TX`, `DC`). |
+| `name` | string | Full state name. |
+| `filing_fee_usd` | number | One-time domestic LLC filing fee charged by the SOS. |
+| `filing_form` | string | Form name or number used to register the LLC. |
+| `first_year_annual_report_fee` | number | Annual report fee for year 1. |
+| `annual_report_fee` | number | Recurring annual report fee. |
+| `annual_report_cadence` | string | One of `annual`, `biennial`, `decennial`, `annual-info-only`, `none`. |
+| `franchise_tax_year_one` | number | First-year minimum LLC franchise/privilege tax (USD). |
+| `franchise_tax_ongoing` | number | Ongoing annual franchise tax minimum (USD). |
+| `processing_days_standard` | number | Typical online processing time (business days). |
+| `processing_days_expedite` | number | Expedited processing time (business days). |
+| `expedite_fee` | number | Expedite fee (USD); 0 if not available. |
+| `publication_required` | boolean | Whether newspaper publication is required (NY, AZ, NE only). |
+| `publication_est_cost` | number\|null | Estimated publication cost where required, USD. |
+| `sos_url` | string | Canonical Secretary of State URL. |
+| `last_verified_date` | string (YYYY-MM-DD) | Date the entry was last verified against the SOS. |
 
-## Sample rows
+## Files
 
-```csv
-AK,Alaska,250,Articles of Organization (Form 08-484),0,100,biennial,0,0,https://www.commerce.alaska.gov/...
-AL,Alabama,200,Certificate of Formation,50,50,annual,50,50,https://www.sos.alabama.gov/...
-CA,California,70,Articles of Organization (Form LLC-1),20,20,biennial,800,800,https://www.sos.ca.gov/...
-```
+- [`states.csv`](./states.csv) — flat CSV (recommended for analysis)
+- [`states.json`](./states.json) — original nested JSON
 
-## Use cases
+## How to cite
 
-- Building an LLC formation cost calculator (the source for ours)
-- Comparing state costs for entity-formation decisions
-- Tax research and entity-structure analysis
-- Academic / regulatory research
-- Founder tools and incorporation services
+Per CC-BY-4.0, attribution is required when reusing the data:
 
-## License
+> Baidi, A. (2026). *2026 LLC Formation Cost Dataset*.
+> llcformationcost.com. Available at https://github.com/Ordertoai/us-llc-formation-fees.
+> Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-CC BY 4.0 — free to use, modify, redistribute with attribution to [llcformationcost.com](https://llcformationcost.com).
-
-## See it live
-
-Browse the full calculator (with state-by-state comparison, foreign-LLC math, S-corp election calculator, registered agent comparator, NY publication cost calculator) at **[llcformationcost.com](https://llcformationcost.com)**.
+The interactive calculator built on this data: <https://llcformationcost.com>
 
 ## Methodology
 
-Each row was verified against the state's Secretary of State website on the date noted in `methodology.md`. Re-verification cadence: quarterly. See `methodology.md` for the full source-citation chain.
+Each entry verified directly against the issuing state's Secretary of State
+or DCRA/DLCP website. AI-sourced entries are tagged with `verifiedSource:
+"gemini-grounded-search-{date}"` in the original JSON. Re-verified
+quarterly.
 
-Primary sources:
-- Each state's Secretary of State public website
-- IRS Publication 3402 (Taxation of Limited Liability Companies)
-- FinCEN BOI reporting guidance
+## License
 
-## Maintainer
-
-This dataset is operated by **Ordertoai LLC** (Texas LLC). Site: [llcformationcost.com](https://llcformationcost.com). Wikidata: [Q139583566](https://www.wikidata.org/wiki/Q139583566).
-
-## Not legal or tax advice
-
-This data is provided for informational purposes only. State filing fees, franchise taxes, and FinCEN deadlines change. Verify current data with the state's Secretary of State, IRS, or a licensed attorney/CPA before relying on it for binding decisions. See [the full disclaimer](https://llcformationcost.com/disclaimer/).
-
-## Versions
-
-| Version | Date | States | Notes |
-|---|---|---|---|
-| 1.0 | 2026-05-12 | 51 | Initial public release |
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — share + adapt
+freely, attribution required.
