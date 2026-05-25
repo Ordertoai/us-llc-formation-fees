@@ -7,7 +7,7 @@ from each state's Secretary of State website + IRS guidance. Released under
 ## Coverage
 
 51 jurisdictions (50 states + DC where data is available).
-Last verified: **2026-05-23**.
+Last verified: **2026-05-25**.
 
 ## Schema
 
