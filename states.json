@@ -48,7 +48,7 @@
       "publicationEstCost": null,
       "sosUrl": "https://www.commerce.alaska.gov/web/cbpl/Corporations.aspx",
       "additionalNotes": "Alaska does not have a state personal income tax or a statewide sales tax. An Initial Report is required within six months of formation, but it has no filing fee.",
-      "lastVerifiedDate": "2026-05-21",
+      "lastVerifiedDate": "2026-06-04",
       "verifiedSource": "gemini-grounded-search-2026-04-26"
     },
     "AZ": {
@@ -69,7 +69,7 @@
       "publicationEstCost": 80,
       "sosUrl": "https://azcc.gov/corporations/forms",
       "additionalNotes": "Publication requirement applies outside Maricopa and Pima counties (~$80 in qualifying newspapers).",
-      "lastVerifiedDate": "2026-05-21"
+      "lastVerifiedDate": "2026-06-25"
     },
     "AR": {
       "code": "AR",
@@ -89,7 +89,7 @@
       "publicationEstCost": null,
       "sosUrl": "https://www.sos.arkansas.gov/business-commercial-services-bcs/",
       "additionalNotes": "The annual report is officially termed the 'Annual LLC Franchise Tax Report' and is due by May 1st each year. LLC names cannot include the word 'Arkansas' or any abbreviation of the state name.",
-      "lastVerifiedDate": "2026-05-21",
+      "lastVerifiedDate": "2026-06-25",
       "verifiedSource": "gemini-grounded-search-2026-04-26"
     },
     "CA": {
@@ -110,7 +110,7 @@
       "publicationEstCost": null,
       "sosUrl": "https://www.sos.ca.gov/business-programs/business-entities/forms",
       "additionalNotes": "California's $800 minimum franchise tax and $20 biennial Statement of Information are mandatory regardless of revenue. Foreign LLCs with CA nexus owe the same tax.",
-      "lastVerifiedDate": "2026-05-21"
+      "lastVerifiedDate": "2026-06-25"
     },
     "CO": {
       "code": "CO",
@@ -130,7 +130,7 @@
       "publicationEstCost": null,
       "sosUrl": "https://www.coloradosos.gov/biz/",
       "additionalNotes": "Online-only filings, no paper option. Periodic report due in anniversary month.",
-      "lastVerifiedDate": "2026-05-21"
+      "lastVerifiedDate": "2026-06-25"
     },
     "CT": {
       "code": "CT",
@@ -150,7 +150,7 @@
       "publicationEstCost": null,
       "sosUrl": "https://business.ct.gov/",
       "additionalNotes": "Connecticut does not have a traditional franchise tax. LLCs are generally taxed as pass-through entities unless they elect corporate tax status.",
-      "lastVerifiedDate": "2026-05-21",
+      "lastVerifiedDate": "2026-06-25",
       "verifiedSource": "gemini-grounded-search-2026-04-26"
     },
     "DE": {
@@ -171,7 +171,7 @@
       "publicationEstCost": null,
       "sosUrl": "https://corp.delaware.gov/fee/",
       "additionalNotes": "Court of Chancery for business disputes. Required for VC-track companies; usually overkill for LLCs with no investor track.",
-      "lastVerifiedDate": "2026-05-21"
+      "lastVerifiedDate": "2026-06-25"
     },
     "DC": {
       "code": "DC",
@@ -212,7 +212,7 @@
       "publicationEstCost": null,
       "sosUrl": "https://dos.fl.gov/sunbiz/",
       "additionalNotes": "$125 includes $100 articles + $25 RA designation. Annual report due May 1.",
-      "lastVerifiedDate": "2026-05-21"
+      "lastVerifiedDate": "2026-06-26"
     },
     "GA": {
       "code": "GA",
@@ -237,7 +237,7 @@
     "HI": {
       "code": "HI",
       "name": "Hawaii",
-      "filingFee": 51,
+      "filingFee": 50,
       "filingForm": "Articles of Organization for Limited Liability Company (Form LLC-1)",
       "firstYearAnnualReportFee": 13.5,
       "annualReportFee": 13.5,
@@ -252,7 +252,7 @@
       "publicationEstCost": null,
       "sosUrl": "https://cca.hawaii.gov/breg/registration/dllc/",
       "additionalNotes": "Hawaii LLCs are pass-through entities by default, meaning profits are taxed at the personal income rates of members/owners, not at the corporate level. There is no residency requirement for LLC members or managers.",
-      "lastVerifiedDate": "2026-05-22",
+      "lastVerifiedDate": "2026-06-26",
       "verifiedSource": "gemini-grounded-search-2026-04-26"
     },
     "ID": {
@@ -273,7 +273,7 @@
       "publicationEstCost": null,
       "sosUrl": "https://sosbiz.idaho.gov/",
       "additionalNotes": "Idaho does not charge an annual report fee. All LLCs must maintain a registered agent with a physical Idaho street address. The official processing time for business filings is currently 15-20 business days.",
-      "lastVerifiedDate": "2026-05-22",
+      "lastVerifiedDate": "2026-06-26",
       "verifiedSource": "gemini-grounded-search-2026-04-26"
     },
     "IL": {
@@ -314,7 +314,7 @@
       "publicationEstCost": null,
       "sosUrl": "https://www.in.gov/sos/business/",
       "additionalNotes": "Indiana requires Business Entity Reports every two years, due in the anniversary month of the LLC's formation. Online filings are processed quickly, typically within one business day.",
-      "lastVerifiedDate": "2026-05-22",
+      "lastVerifiedDate": "2026-06-26",
       "verifiedSource": "gemini-grounded-search-2026-04-26"
     },
     "IA": {
@@ -356,7 +356,7 @@
       "publicationEstCost": null,
       "sosUrl": "https://www.sos.ks.gov/business/business.html",
       "additionalNotes": "Kansas requires all LLCs to maintain a resident agent. The biennial report is due by April 15th, with the filing year depending on the LLC's formation year (even years for LLCs formed in even years, odd years for LLCs formed in odd years).",
-      "lastVerifiedDate": "2026-05-22",
+      "lastVerifiedDate": "2026-06-26",
       "verifiedSource": "gemini-grounded-search-2026-04-26"
     },
     "KY": {
@@ -377,7 +377,7 @@
       "publicationEstCost": null,
       "sosUrl": "https://sos.ky.gov/bus/Pages/default.aspx",
       "additionalNotes": "After forming an LLC, a copy of the Articles of Organization must be filed with the county clerk in the county where the LLC's registered office is located.",
-      "lastVerifiedDate": "2026-05-22",
+      "lastVerifiedDate": "2026-06-26",
       "verifiedSource": "gemini-grounded-search-2026-04-26"
     },
     "LA": {
@@ -398,7 +398,7 @@
       "publicationEstCost": null,
       "sosUrl": "https://www.sos.la.gov/BusinessServices/Pages/default.aspx",
       "additionalNotes": "An Initial Report is filed concurrently with the Articles of Organization at no additional fee. The annual report fee is $30 for online filings and $35 for mail filings.",
-      "lastVerifiedDate": "2026-05-22",
+      "lastVerifiedDate": "2026-06-27",
       "verifiedSource": "gemini-grounded-search-2026-04-26"
     },
     "ME": {
@@ -419,7 +419,7 @@
       "publicationEstCost": null,
       "sosUrl": "https://www.maine.gov/sos/cec/corp/index.html",
       "additionalNotes": "Initial LLC formation filings must be submitted by mail or in person, as online filing is not available. An operating agreement is required for Maine LLCs but is not filed with the Secretary of State.",
-      "lastVerifiedDate": "2026-05-22",
+      "lastVerifiedDate": "2026-06-27",
       "verifiedSource": "gemini-grounded-search-2026-04-26"
     },
     "MD": {
@@ -440,7 +440,7 @@
       "publicationEstCost": null,
       "sosUrl": "https://egov.maryland.gov/businessexpress",
       "additionalNotes": "Maryland LLCs are pass-through entities for tax purposes by default. The state allows for anonymous LLCs as member/manager information is not required in the Articles of Organization.",
-      "lastVerifiedDate": "2026-05-23",
+      "lastVerifiedDate": "2026-06-27",
       "verifiedSource": "gemini-grounded-search-2026-04-26"
     },
     "MA": {
@@ -481,7 +481,7 @@
       "publicationEstCost": null,
       "sosUrl": "https://www.michigan.gov/lara",
       "additionalNotes": "Michigan does not require an operating agreement to be filed with the state, but it is highly advisable. Michigan also allows for anonymous LLCs as member information is not added to the state's public record.",
-      "lastVerifiedDate": "2026-05-23",
+      "lastVerifiedDate": "2026-06-27",
       "verifiedSource": "gemini-grounded-search-2026-04-26"
     },
     "MN": {
@@ -502,7 +502,7 @@
       "publicationEstCost": null,
       "sosUrl": "https://www.sos.state.mn.us/business-liens/start-a-business/",
       "additionalNotes": "Online filings for Articles of Organization are typically processed within 2-5 business days and include expedited processing at no additional charge. Mail filings take approximately 3-4 weeks. Minnesota does not have a general statewide business license, but certain industries and cities may have additional requirements.",
-      "lastVerifiedDate": "2026-05-23",
+      "lastVerifiedDate": "2026-06-27",
       "verifiedSource": "gemini-grounded-search-2026-04-26"
     },
     "MS": {
@@ -544,7 +544,7 @@
       "publicationEstCost": null,
       "sosUrl": "https://www.sos.mo.gov/business",
       "additionalNotes": "Missouri LLCs are not required to file annual reports or pay associated fees. Additionally, active-duty military personnel are exempt from all filing fees when creating new business entities in Missouri.",
-      "lastVerifiedDate": "2026-05-23",
+      "lastVerifiedDate": "2026-06-27",
       "verifiedSource": "gemini-grounded-search-2026-04-26"
     },
     "MT": {
@@ -586,7 +586,7 @@
       "publicationEstCost": 170,
       "sosUrl": "https://sos.nebraska.gov/business-services/business-services-division",
       "additionalNotes": "Nebraska requires LLCs to publish a Notice of Organization in a legal newspaper for three consecutive weeks after formation, and then file proof of publication with the Secretary of State.",
-      "lastVerifiedDate": "2026-05-23",
+      "lastVerifiedDate": "2026-06-28",
       "verifiedSource": "gemini-grounded-search-2026-04-26"
     },
     "NV": {
@@ -607,7 +607,7 @@
       "publicationEstCost": null,
       "sosUrl": "https://www.nvsos.gov/sos/businesses/commercial-recordings/forms-fees",
       "additionalNotes": "Nevada requires LLCs to file an Initial List of Managers or Members and obtain a State Business License upon formation, in addition to filing the Articles of Organization. These are also renewed annually.",
-      "lastVerifiedDate": "2026-05-23",
+      "lastVerifiedDate": "2026-06-28",
       "verifiedSource": "gemini-grounded-search-2026-04-26"
     },
     "NH": {
@@ -628,7 +628,7 @@
       "publicationEstCost": null,
       "sosUrl": "https://quickstart.sos.nh.gov/online",
       "additionalNotes": "New Hampshire does not have a state sales tax or personal income tax. The annual report is due by April 1st each year, beginning the year after formation.",
-      "lastVerifiedDate": "2026-05-16",
+      "lastVerifiedDate": "2026-06-28",
       "verifiedSource": "gemini-grounded-search-2026-04-26"
     },
     "NJ": {
@@ -670,7 +670,7 @@
       "publicationEstCost": null,
       "sosUrl": "https://www.sos.nm.gov/business-services/",
       "additionalNotes": "Cheapest 5-year baseline ($50). Anonymous-friendly; member names not on public record.",
-      "lastVerifiedDate": "2026-05-24"
+      "lastVerifiedDate": "2026-06-28"
     },
     "NY": {
       "code": "NY",
@@ -690,7 +690,7 @@
       "publicationEstCost": 1600,
       "sosUrl": "https://dos.ny.gov/",
       "additionalNotes": "Publication requirement adds $1,200-$2,000 in NY County (Manhattan) within 120 days of formation. Not in calculator total but flagged in 'doesn't include' panel.",
-      "lastVerifiedDate": "2026-05-17"
+      "lastVerifiedDate": "2026-06-25"
     },
     "NC": {
       "code": "NC",
@@ -710,7 +710,7 @@
       "publicationEstCost": null,
       "sosUrl": "https://www.sosnc.gov/divisions/business_registration",
       "additionalNotes": "Annual report due April 15.",
-      "lastVerifiedDate": "2026-05-24"
+      "lastVerifiedDate": "2026-06-28"
     },
     "ND": {
       "code": "ND",
@@ -730,7 +730,7 @@
       "publicationEstCost": null,
       "sosUrl": "https://sos.nd.gov/business-services",
       "additionalNotes": "LLCs are the most common business structure in North Dakota due to liability protection and pass-through taxation. A registered agent with a physical North Dakota address is required.",
-      "lastVerifiedDate": "2026-05-24",
+      "lastVerifiedDate": "2026-06-28",
       "verifiedSource": "gemini-grounded-search-2026-04-26"
     },
     "OH": {
@@ -792,7 +792,7 @@
       "publicationEstCost": null,
       "sosUrl": "https://sos.oregon.gov/business/Pages/default.aspx",
       "additionalNotes": "Oregon requires a registered agent with a physical street address in Oregon (no PO Boxes). Oregon does not have a state sales tax.",
-      "lastVerifiedDate": "2026-05-24",
+      "lastVerifiedDate": "2026-06-29",
       "verifiedSource": "gemini-grounded-search-2026-04-26"
     },
     "PA": {
@@ -813,7 +813,7 @@
       "publicationEstCost": null,
       "sosUrl": "https://www.dos.pa.gov/BusinessCharities/Business/Pages/default.aspx",
       "additionalNotes": "Philadelphia BIRT applies to Philadelphia-based LLCs (1.415% gross + 5.81% net).",
-      "lastVerifiedDate": "2026-05-24"
+      "lastVerifiedDate": "2026-06-29"
     },
     "RI": {
       "code": "RI",
@@ -833,7 +833,7 @@
       "publicationEstCost": null,
       "sosUrl": "https://sos.ri.gov/business/business-basics/costs-and-fees",
       "additionalNotes": "Rhode Island requires a resident agent with a physical street address in the state; P.O. Boxes are not allowed. The $400 annual charge is mandatory regardless of income or business activity.",
-      "lastVerifiedDate": "2026-05-24",
+      "lastVerifiedDate": "2026-06-29",
       "verifiedSource": "gemini-grounded-search-2026-04-26"
     },
     "SC": {
@@ -875,7 +875,7 @@
       "publicationEstCost": null,
       "sosUrl": "https://sdsos.gov/business-services/",
       "additionalNotes": "South Dakota does not impose a state income tax on LLCs.",
-      "lastVerifiedDate": "2026-05-25",
+      "lastVerifiedDate": "2026-06-29",
       "verifiedSource": "gemini-grounded-search-2026-04-26"
     },
     "TN": {
@@ -896,7 +896,7 @@
       "publicationEstCost": null,
       "sosUrl": "https://sos.tn.gov/business-services",
       "additionalNotes": "If the LLC's principal office is in Tennessee, a copy of the Articles of Organization must be filed with the Register of Deeds in that county.",
-      "lastVerifiedDate": "2026-05-25",
+      "lastVerifiedDate": "2026-06-29",
       "verifiedSource": "gemini-grounded-search-2026-04-26"
     },
     "TX": {
@@ -917,7 +917,7 @@
       "publicationEstCost": null,
       "sosUrl": "https://www.sos.state.tx.us/corp/forms_option.shtml",
       "additionalNotes": "Texas has no annual report fee for LLCs below the franchise tax no-tax-due threshold ($1.23M). No personal income tax.",
-      "lastVerifiedDate": "2026-05-25"
+      "lastVerifiedDate": "2026-06-29"
     },
     "UT": {
       "code": "UT",
@@ -937,7 +937,7 @@
       "publicationEstCost": null,
       "sosUrl": "https://corporations.utah.gov/",
       "additionalNotes": "Utah LLCs benefit from operational flexibility and liability protection. The state does not require members to list their names and addresses on the Certificate of Organization, allowing for moderate privacy.",
-      "lastVerifiedDate": "2026-05-25",
+      "lastVerifiedDate": "2026-06-29",
       "verifiedSource": "gemini-grounded-search-2026-04-26"
     },
     "VT": {
@@ -979,7 +979,7 @@
       "publicationEstCost": null,
       "sosUrl": "https://www.scc.virginia.gov/pages/Business-Entities",
       "additionalNotes": "Annual registration due last day of anniversary month.",
-      "lastVerifiedDate": "2026-05-25"
+      "lastVerifiedDate": "2026-06-30"
     },
     "WA": {
       "code": "WA",
@@ -999,7 +999,7 @@
       "publicationEstCost": null,
       "sosUrl": "https://sos.wa.gov/corps/",
       "additionalNotes": "Business license $90 first year (separate from formation). Annual report due in anniversary month.",
-      "lastVerifiedDate": "2026-05-25"
+      "lastVerifiedDate": "2026-06-30"
     },
     "WV": {
       "code": "WV",
@@ -1019,7 +1019,7 @@
       "publicationEstCost": null,
       "sosUrl": "https://business4wv.gov/",
       "additionalNotes": "A mandatory $30 Business Registration Certificate from the West Virginia State Tax Department is also required upon formation. An additional $1 convenience fee applies to online filings for both initial Articles of Organization and annual reports. The initial filing fee for veteran-owned LLCs may be waived.",
-      "lastVerifiedDate": "2026-05-25",
+      "lastVerifiedDate": "2026-06-16",
       "verifiedSource": "gemini-grounded-search-2026-04-26"
     },
     "WI": {
@@ -1040,7 +1040,7 @@
       "publicationEstCost": null,
       "sosUrl": "https://dfi.wi.gov/Pages/Home.aspx",
       "additionalNotes": "Wisconsin offers immediate online approval for LLC formation and does not require newspaper publication for new LLCs.",
-      "lastVerifiedDate": "2026-05-02",
+      "lastVerifiedDate": "2026-06-30",
       "verifiedSource": "gemini-grounded-search-2026-04-26"
     },
     "WY": {
@@ -1061,7 +1061,7 @@
       "publicationEstCost": null,
       "sosUrl": "https://sos.wyo.gov/Business/StartABusiness.aspx",
       "additionalNotes": "Privacy-friendly: members not on public record. Charging order is exclusive creditor remedy (W.S. 17-29-503).",
-      "lastVerifiedDate": "2026-05-19"
+      "lastVerifiedDate": "2026-06-30"
     }
   }
 }
